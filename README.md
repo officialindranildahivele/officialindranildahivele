@@ -1,20 +1,22 @@
-# Hi, I'm Indranil Dahivele 👋
+# Indranil Dahivele
 
-I'm a **Software Engineer** who enjoys building practical applications across web development and machine learning.
+### Software Engineer
 
-### Technologies
+I build practical software across full-stack web development and applied machine learning. My work focuses on turning ideas into useful, maintainable applications.
 
-`React` · `Node.js` · `Python` · `Java` · `Machine Learning`
+#### Technical skills
 
-### Featured projects
+**Languages and tools:** React · Node.js · Python · Java · Machine Learning
 
-- [AI Mock Interview](https://github.com/officialindranildahivele/AI-Mock-Interview) — An AI-powered interview practice app with resume-based sessions, feedback, and coding practice.
-- [Heart Disease Prediction](https://github.com/officialindranildahivele/Heart-Disease-Prediction) — An educational Flask and TensorFlow project for exploring heart-disease risk prediction.
+#### Selected projects
 
-### Connect
+- **[AI Mock Interview](https://github.com/officialindranildahivele/AI-Mock-Interview)** — An AI-powered interview practice platform with resume-based sessions, answer feedback, and coding practice.
+- **[Heart Disease Prediction](https://github.com/officialindranildahivele/Heart-Disease-Prediction)** — A Flask and TensorFlow project exploring heart-disease risk prediction for educational purposes.
 
-Explore my [repositories](https://github.com/officialindranildahivele?tab=repositories) to see what I'm building.
+#### Find me
+
+[GitHub repositories](https://github.com/officialindranildahivele?tab=repositories)
 
 ---
 
-> The heart-disease prediction project is for educational purposes only and is not medical advice.
+*The heart disease prediction project is educational and is not intended for diagnosis or medical decisions.*
